@@ -1,14 +1,10 @@
 ### Greetings! 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-
 I am a collaborative, results-driven operations director transitioning into the cloud industry. I bring 16 years of experience developing programs, people, and processes that meet or exceed outcomes.
 
 I am currently in a DevOps Engineering program with Level Up in Tech where I am learning the following skills: AWS, Linux, Python, Infrastructure as Code, Orchestration, Containerization, Terraform, CI/CD and Source Control.
 
 Feel free to connect with me here:
-
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tait%20Hoglund-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tait-hoglund/)](https://www.linkedin.com/in/tait-hoglund/)
 [![Medium Badge](https://img.shields.io/badge/Tait%20Hoglund-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.medium.com/@tait.hoglund/)](https://www.medium.com/@tait.hoglund/)
@@ -24,9 +20,6 @@ Feel free to connect with me here:
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
 
