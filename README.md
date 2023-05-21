@@ -1,8 +1,8 @@
 ### Greetings! 👋
 
-I am a collaborative, results-driven operations director transitioning into the cloud industry. I bring 16 years of experience developing programs, people, and processes that meet or exceed outcomes.
+I am a collaborative, results-driven Cloud Engineer. I have been building apps and arcitectures in the Cloud since 2010.
 
-I am currently in a DevOps Engineering program with Level Up in Tech where I am building upon my skills in AWS, Linux, Python, Infrastructure as Code, Orchestration, Containerization, Terraform, CI/CD and Source Control.
+Each day, I strive to grow in my skills. My core skills are in AWS, Linux, Python, Infrastructure as Code, Orchestration, Containerization, Terraform, Docker, CI/CD Source Control and Kubernetes.
 
 Feel free to connect with me here:
 
